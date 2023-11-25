@@ -27,8 +27,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=xeroxero8x&icon=4&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  <p><a href="https://www.buymeacoffee.com/xeroxero8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/xeroxero8" /></a></p><br><br>
+  ## 💰 You can help me by Staring the repository
+  <p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/xeroxero8" /></a></p><br>Just For show<br>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
